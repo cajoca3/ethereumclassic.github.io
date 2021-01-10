@@ -5,19 +5,19 @@ blog/index/title: |-
 
 # Latest Ethereum Classic news articles and announcements
 blog/index/description: |-
-  Últimos artículos y anuncios de Ethereum Classic
+  Últimos artigos e anúncios de Ethereum Classic
 
 # Submit Article
 blog/index/submit: |-
-  Enviar artículo
+  Enviar artigo
 
 # English Articles
 blog/index/englishItems: |-
-  Artículos en ingles
+  Artigos en ingles
 
 # Articles on a range of topics contributed by various ETC participants
 blog/index/intro: |-
-  Artículos sobre una variedad de temas aportados por varios participantes de ETC
+  Artigos sobre diversos temas, contribuídos por vários participantes de ETC
 
 # Blog RSS Feed
 blog/index/rss__text: |-
@@ -29,15 +29,15 @@ blog/section.global/title: |-
 
 # Guide
 development/clients/clients/buttons__guide__name: |-
-  Guía
+  Guia
 
 # Releases
 development/clients/clients/buttons__release__name: |-
-  Lanzamientos
+  Lançamentos
 
 # Support
 development/clients/clients/buttons__support__name: |-
-  Apoyo
+  Suporte
 
 # Core-Geth
 development/clients/clients/items__Core-Geth__name: |-
@@ -45,7 +45,7 @@ development/clients/clients/items__Core-Geth__name: |-
 
 # Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, client configurations and APIs between Multi-Geth and Core-Geth might differ in details. This client is supported by the ETC Core team with funding from Ethereum Classic Labs.
 development/clients/clients/items__Core-Geth__description: |-
-  Core-Geth es una distribución de go-ethereum con muchos sabores. Para obtener soporte de actualización de Phoenix, utilice la versión v1.11.0 o posterior. Las consideraciones de actualización, las configuraciones del cliente y las API entre Multi-Geth y Core-Geth pueden diferir en detalles. Este cliente cuenta con el apoyo del equipo ETC Core con fondos de Ethereum Classic Labs.
+  Core-Geth é uma distribucão de go-ethereum com muitos sabores. Para obter suporte de actualizacão de Phoenix, utilize a versão v1.11.0 ou posterior. Considerações de atualização, configurações de cliente e API entre Multi-Geth e Core-Geth, podem divergir nos detalhes. Este cliente conta com o apoio da equipa ETC Core, financiada pela Ethereum Classic Labs.
 
 # Hyperledger Besu
 development/clients/clients/items__Hyperledger Besu__name: |-
@@ -53,7 +53,7 @@ development/clients/clients/items__Hyperledger Besu__name: |-
 
 # Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
 development/clients/clients/items__Hyperledger Besu__description: |-
-  Hyperledger Besu es un cliente de Ethereum diseñado para ser amigable con la empresa para casos de uso de redes autorizadas tanto públicas como privadas. Para obtener soporte de actualización de Phoenix, utilice la versión v1.4.1 o posterior. Consideraciones de actualización, las API entre ParityEthereum y Besu difieren significativamente. La minería no está muy bien soportada en Besu. Este cliente cuenta con el apoyo de los equipos ChainSafe, ETC Cooperative y PegaSys como parte del proyecto Hyperledger con fondos del Ethereum Classic Trust de Grayscale.
+  Hyperledger Besu é um cliente de Ethereum projetado para ser amigável para empresas, para os casos de rede com permissão pública e privada. Para obter suporte de atualização de Phoenix, utilize a versão v1.4.1 ou posterior. Consideraciones de actualización, las API entre ParityEthereum y Besu difieren significativamente. La minería no está muy bien soportada en Besu. Este cliente cuenta con el apoyo de los equipos ChainSafe, ETC Cooperative y PegaSys como parte del proyecto Hyperledger con fondos del Ethereum Classic Trust de Grayscale.
 
 # Multi-Geth
 development/clients/clients/items__Multi-Geth__name: |-
